@@ -1,0 +1,21 @@
+# Compiled class files (in all directories)
+*.class
+**/*.class
+
+# Log files
+*.log
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Progress tracking
+PROGRESS.md
