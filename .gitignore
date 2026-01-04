@@ -12,10 +12,21 @@
 .settings/
 .project
 .classpath
+.metadata/
+
+# Build directories
+out/
+build/
+target/
 
 # OS files
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Progress tracking
-PROGRESS.md
+# Editor backup files
+*.swp
+*.swo
+*~
+*.bak
+
